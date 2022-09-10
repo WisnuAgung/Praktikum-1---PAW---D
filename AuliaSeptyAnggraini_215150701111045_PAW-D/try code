@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <body>
+
+    <h1>Halaman HTML</h1>
+
+    <?phpecho "Hello World!";
+    ?>
+
+</body>
+</html>
